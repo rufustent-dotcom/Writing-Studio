@@ -1,0 +1,6 @@
+{
+  "name": "AI Writing Studio",
+  "description": "An elegant, distraction-free writing workshop with an inline AI companion that refines prose, suggests improvements, and weaves edits seamlessly into your work.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
